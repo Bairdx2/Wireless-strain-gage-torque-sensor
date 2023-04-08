@@ -21,3 +21,9 @@ Torque sensors are typically expensive and not adaptable in cases where one is n
 ### Schematic diagram
 
 ![alt text](https://i.imgur.com/DV0KoyN.png)
+
+***Figure 1***: Schematic diagram illustraing connections between the torque sensor and arduino.
+
+![alt text](https://i.imgur.com/MDdYPOP.png)
+
+***Figure 2***: Physical version of connected circuit.
