@@ -36,6 +36,12 @@ Torque sensors are typically expensive and not adaptable in cases where one is n
 
 ***Figure 4***: Differential Opamp circuit and governing equations.
 
+
+##
+### Project guidelines
+
+When all of the proper circuit connections are made, the reciever/transmitter code is uploaded to the respective Arduino module and the output can be measured instantly. Initially if the raw data is not filtered, the reciever Arduino will a value between 0 - 1023 which corresponds to the transmitter Arduino ADC reading (Fig. 5 + 6). When the data is converted from a raw reading to torque using the governing equations provided previously, the applied torque can be measured wirelessly in realtime (Fig 7). The torque was applied by holding the aluminum bar with the torque sensor at both ends. One end was held stationary while a rotational force was applied to the other. The amount of force that could be applied using this method was relatively small but since the differential Opamp circuit gaing was x1000, this force could easily be measured.
+
 ![alt text](https://i.imgur.com/1Jjgfig.png)
 
 ***Figure 5***: Raw output of the data sent from the transmitter Arduino to the reciever Arduino with various test types.
