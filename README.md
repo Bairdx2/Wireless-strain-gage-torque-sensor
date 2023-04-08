@@ -34,19 +34,19 @@ Torque sensors are typically expensive and not adaptable in cases where one is n
 
 ![alt text](https://i.imgur.com/URqWWCS.png)
 
-***Figure 3***: Schematic diagram of the Wheatstone bridge sensor and governing equations.
+***Figure 4***: Schematic diagram of the Wheatstone bridge sensor and governing equations.
 
 ![alt text](https://i.imgur.com/1Jjgfig.png)
 
-***Figure 4***: Raw output of the data sent from the transmitter Arduino to the reciever Arduino with various test types.
+***Figure 5***: Raw output of the data sent from the transmitter Arduino to the reciever Arduino with various test types.
 
 ![alt text](https://i.imgur.com/BBpQnKR.png)
 
-***Figure 5***: Raw output of the data sent from the transmitter Arduino to the reciever Arduino while applying and holding different torque amounts.
+***Figure 6***: Raw output of the data sent from the transmitter Arduino to the reciever Arduino while applying and holding different torque amounts.
 
 ![alt text](https://i.imgur.com/R9qLphf.png)
 
-***Figure 6***: Raw output converted to torque using the governing equations.
+***Figure 7***: Raw output converted to torque using the governing equations.
 
 
 ##
