@@ -16,6 +16,7 @@
 5. 2x - 1MΩ resistor
 6. 2x - 1kΩ resistor
 7. 1x - 0.1μF capacitor
+8. 4x - 350Ω strain gages (other standard value strain gages will work also)
 ##
 ### Schematic diagram
 
