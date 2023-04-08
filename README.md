@@ -52,7 +52,7 @@ Torque sensors are typically expensive and not adaptable in cases where one is n
 ##
 ### Considerations
 
-1. The accuracy of this method is very reliant on being able to place the sensors as closely as possible and more importantly, at as clost to 45 apart. If these parameters are not met, the voltage measured for equal an opposite applied torque values may not be equal.
+1. The accuracy of this method is very reliant on being able to place the sensors as closely as possible and more importantly, at as clost to 45° apart. If these parameters are not met, the voltage measured for equal an opposite applied torque values may not be equal.
 2. The strain sensors were applied to using cyanoacrylate (super glue - gel type) and the curing process took several hours.
 3. Simplified governing equations were used for the differential opamp circuit but assume that resistor pairs have equivalent values. Resistor values are always off by a certain percentage due to manufacturing processes and thus, these simplified equations may not be suitable for certain applications.
 4. The XBee transceivers have to be set up in order to communicate with each other. The XCTU software must be used to facilitate this. Simple OSK/ASK wireless [transmitter](https://www.sparkfun.com/products/10534)/[receiver](https://www.sparkfun.com/products/10532) modules can be used instead but at the cost of range and lack of encryption.
