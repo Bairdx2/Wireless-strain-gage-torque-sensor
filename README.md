@@ -32,9 +32,9 @@ Torque sensors are typically expensive and not adaptable in cases where one is n
 
 ***Figure 3***: Schematic diagram of the Wheatstone bridge sensor and governing equations.
 
-![alt text](https://i.imgur.com/URqWWCS.png)
+![alt text](https://i.imgur.com/krUzyjr.png)
 
-***Figure 4***: Schematic diagram of the Wheatstone bridge sensor and governing equations.
+***Figure 4***: Differential Opamp circuit and governing equations.
 
 ![alt text](https://i.imgur.com/1Jjgfig.png)
 
