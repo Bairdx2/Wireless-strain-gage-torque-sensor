@@ -38,4 +38,12 @@ Torque sensors are typically expensive and not adaptable in cases where one is n
 
 ![alt text](https://i.imgur.com/BBpQnKR.png)
 
-***Figure 4***: Raw output of the data sent from the transmitter Arduino to the reciever Arduino while applying and holding different torque amounts.
+***Figure 5***: Raw output of the data sent from the transmitter Arduino to the reciever Arduino while applying and holding different torque amounts.
+
+![alt text](https://i.imgur.com/R9qLphf.png)
+
+***Figure 6***: Raw output converted to torque using the governing equations.
+
+
+##
+### Considerations
