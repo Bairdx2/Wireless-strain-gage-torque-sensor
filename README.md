@@ -32,6 +32,10 @@ Torque sensors are typically expensive and not adaptable in cases where one is n
 
 ***Figure 3***: Schematic diagram of the Wheatstone bridge sensor and governing equations.
 
+![alt text](https://i.imgur.com/URqWWCS.png)
+
+***Figure 3***: Schematic diagram of the Wheatstone bridge sensor and governing equations.
+
 ![alt text](https://i.imgur.com/1Jjgfig.png)
 
 ***Figure 4***: Raw output of the data sent from the transmitter Arduino to the reciever Arduino with various test types.
@@ -47,3 +51,7 @@ Torque sensors are typically expensive and not adaptable in cases where one is n
 
 ##
 ### Considerations
+
+1. The accuracy of this method is very reliant on being able to place the sensors as closely as possible and more importantly, at as clost to 45 apart. If these parameters are not met, the voltage measured for equal an opposite applied torque values may not be equal.
+2. The strain sensors were applied to using cyanoacrylate (super glue - gel type) and the curing process took several hours.
+3. 
