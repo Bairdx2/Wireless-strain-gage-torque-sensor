@@ -20,4 +20,4 @@
 ##
 ### Schematic diagram
 
-![alt text](https://i.imgur.com/3ZBet1Q.png)
+![alt text](https://i.imgur.com/DV0KoyN.png)
