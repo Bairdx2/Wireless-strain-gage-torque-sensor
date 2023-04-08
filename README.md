@@ -1,5 +1,5 @@
 # Wireless strain gage torque sensor with microcontroller interface
-
+Torque sensors are typically expensive and not adaptable in cases where one is not tightening a nut or bolt. Torsional forces exist in many different applications and measuring them is relatively easy. Typical torque sensors which are not part of a torque wrench are costly and only consist of four strain resistors placed close together and angled 45° apart. This is a short project related to making one of these types of resistive torque sensors while also adding long range wireless data transfer capabilities to accomodate cases where direct wire connections may not be suitable.
 
 ## Table of Contents:
 - Items needed
