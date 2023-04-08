@@ -27,3 +27,8 @@ Torque sensors are typically expensive and not adaptable in cases where one is n
 ![alt text](https://i.imgur.com/MDdYPOP.png)
 
 ***Figure 2***: Physical version of connected circuit.
+
+![alt text](https://i.imgur.com/02jTyFM.png)
+
+***Figure 2***: Schematic diagram of the Wheatstone bridge sensor and governing equations.
+
