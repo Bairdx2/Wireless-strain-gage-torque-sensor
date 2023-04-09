@@ -30,7 +30,7 @@ Torque sensors are typically expensive and not adaptable in cases where one is n
 
 ![alt text](https://i.imgur.com/02jTyFM.png)
 
-***Figure 3***: Schematic diagram of the Wheatstone bridge sensor and governing equations.
+***Figure 3***: Schematic diagram of the Wheatstone bridge sensor and governing equations. ɣ is torsional strain, E is elastic modulus, GF is the strain sensor gage factor, Ro is the tube outer diameter, Ri is the tube inner diameter, ν is the poisson ratio and T is the torque.
 
 ![alt text](https://i.imgur.com/krUzyjr.png)
 
